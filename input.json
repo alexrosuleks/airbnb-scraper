@@ -1,0 +1,14 @@
+{
+  "locationQueries": [
+    "London"
+  ],
+  "maxResults": 10,
+  "currency": "USD",
+  "locale": "en-US",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
